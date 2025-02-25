@@ -25,15 +25,23 @@ Navigate into the project directory:
 
 cd vue-ecommerce-store
 
+cd /front-end
+
 Install the dependencies:
 
 npm install
+Start frontend
+     npm run serve
+Open new terminal
+cd /back-end
 
-Start the development server:
+Install the dependencies:
 
-    npm run serve
+npm install
+Start backend 
+    npm run dev
 
-    Open your browser and navigate to http://localhost:8080 to view the application.
+Open site at http://localhost:8080/products
 
 Contributing
 
