@@ -17,7 +17,8 @@ Prerequisites
 
 Steps to Install
 
-    Clone this repository:
+Clone this repository:
+
 ```javascript
 git clone [https://github.com/your-username/vue-ecommerce-store.git](https://github.com/joedewet36/ecommerce-olive-vue)](https://github.com/joedewet36/ecommerce-olive-vue.git
 ```
