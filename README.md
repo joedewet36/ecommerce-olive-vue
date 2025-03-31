@@ -18,28 +18,35 @@ Prerequisites
 Steps to Install
 
     Clone this repository:
-
+```javascript
 git clone [https://github.com/your-username/vue-ecommerce-store.git](https://github.com/joedewet36/ecommerce-olive-vue)](https://github.com/joedewet36/ecommerce-olive-vue.git
-
+```
 Navigate into the project directory:
-
-cd vue-ecommerce-store
+```javascript
+cd ecommerce-olive-vue
 
 cd /front-end
-
+```
 Install the dependencies:
-
+```javascript
 npm install
+```
 Start frontend
+```javascript
      npm run serve
+```
 Open new terminal
+```javascript
 cd /back-end
-
+```
 Install the dependencies:
-
+```javascript
 npm install
+```
 Start backend 
+```javascript
     npm run dev
+```
 
 Open site at http://localhost:8080/products
 
